@@ -23,3 +23,13 @@ p {
     background-color: #04AA6D;
     color: white;
   }
+
+  body {
+    background-color: #D5DBDB;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
